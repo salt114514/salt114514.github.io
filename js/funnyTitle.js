@@ -1,0 +1,16 @@
+/* 浏览器搞笑标题 */
+var originTitle = document.title;
+var titleTime;
+document.addEventListener('visibilitychange', function () {
+    if (document.hidden) {
+        document.title = '(*σ´∀`)σ 一会再见~ ' + originTitle;
+        if (titleTime != null) {
+            clearTimeout(titleTime);
+        }
+    } else {
+        document.title = '(*´∇｀*) 欢迎回来~ ' + originTitle;
+        titleTime = setTimeout(function () {
+            document.title = originTitle;
+        }, 2000);
+    }
+});
