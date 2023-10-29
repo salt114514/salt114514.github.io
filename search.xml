@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>【施工中】空洞骑士五门通关攻略</title>
+    <url>/2023/10/28/23-10-28hollowknight-stage5/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直想着有博客和浙中医45虚空神联动出一篇神居五门攻略，现在打了18锁空洞水平大抵是够分析五门了，总之先画个饼在这里</p>
+<p>写的话应该不止会写五门的东西，会带一点45内容(n5指n锁五门)</p>
+<h2 id="数据参考"><a href="#数据参考" class="headerlink" title="数据参考"></a>数据参考</h2><p>因为带锁之后一旦锁了骨钉or护符boss血量将会决定战斗线程长度和整体难度（有些boss时间拖得越长越难打，比如马爹二阶段），所以这边做了一个表格进行参考</p>
+<table>
+<thead>
+<tr>
+<th align="center">名称&#x2F;别名</th>
+<th align="center">五门&#x2F;调谐血量</th>
+<th align="center">进升&#x2F;辐辉血量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">复仇蝇之王&#x2F;大苍蝇</td>
+<td align="center">左450&#x2F;右190</td>
+<td align="center">左735&#x2F;右430</td>
+</tr>
+<tr>
+<td align="center">格鲁兹之母&#x2F;虫母</td>
+<td align="center">650</td>
+<td align="center">945</td>
+</tr>
+<tr>
+<td align="center">假骑士</td>
+<td align="center">260*3</td>
+<td align="center">560*3</td>
+</tr>
+<tr>
+<td align="center">苔藓(白给)冲锋者</td>
+<td align="center">480</td>
+<td align="center">850</td>
+</tr>
+<tr>
+<td align="center">守护者大黄蜂</td>
+<td align="center">900</td>
+<td align="center">1250</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>life</tag>
+        <tag>Hollow-Knight</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】基于Hexo和Github搭建一个博客</title>
+    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
+    <content><![CDATA[<p>博主昨天就睡了两个半小时现在去补觉了，晚上再来写(o´ω&#96;o)ﾉ</p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】前端环境配置的一些整理和记录</title>
+    <url>/2023/10/28/23-10-28front-end-environment/</url>
+    <content><![CDATA[<p>新建文件夹*1</p>
+]]></content>
+      <categories>
+        <category>front-end</category>
+      </categories>
+      <tags>
+        <tag>Vue3</tag>
+        <tag>npm</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sodium-salt&#39;s First Blog</title>
+    <url>/2023/10/27/Sodium-salt-s-First-Blog/</url>
+    <content><![CDATA[<h2 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h2><p>目猫老师最帅</p>
+<p>这是salt的第一篇博客，目前打算先把一些基本功能摸透之后再开始优化css比如搞点配色和背景()</p>
+<p>很高兴认识你o(〃’▽’〃)o</p>
+]]></content>
+      <categories>
+        <category>salt编年史</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>life</tag>
+      </tags>
+  </entry>
+</search>
