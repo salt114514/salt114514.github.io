@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
+    <url>/2023/10/30/23-10-30-CommentsNote/</url>
+    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2>]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>gitalk</tag>
+        <tag>comment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Sodium-salt&#39;s First Blog</title>
     <url>/2023/10/27/Sodium-salt-s-First-Blog/</url>
     <content><![CDATA[<h2 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h2><p>目猫老师最帅</p>
