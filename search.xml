@@ -28,19 +28,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
-    <url>/2023/10/30/23-10-30-CommentsNote/</url>
-    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2>]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>gitalk</tag>
-        <tag>comment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【施工中】空洞骑士五门通关攻略</title>
     <url>/2023/10/28/23-10-28-hollowknight-stage5/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直想着有博客了之后和浙中医45虚空神联动出一篇神居五门攻略，现在打了18锁空洞水平大抵是够分析五门了</p>
@@ -88,6 +75,19 @@
       <tags>
         <tag>Hollow-Knight</tag>
         <tag>life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
+    <url>/2023/10/30/23-10-30-CommentsNote/</url>
+    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2>]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>gitalk</tag>
+        <tag>comment</tag>
       </tags>
   </entry>
   <entry>
