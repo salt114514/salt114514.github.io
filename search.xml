@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【施工中】基于Hexo和Github搭建一个博客</title>
-    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
-    <content><![CDATA[<p>博主昨天就睡了两个半小时现在去补觉了，晚上再来写(o´ω&#96;o)ﾉ</p>
+    <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
+    <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>HollowKnight</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
+    <url>/2023/10/30/23-10-30-CommentsNote/</url>
+    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2><p>不知道是因为网络问题还是别的什么原因总之感觉这个东西如配……先开一篇记录一下吧。</p>
 ]]></content>
       <categories>
         <category>blog</category>
       </categories>
       <tags>
         <tag>blog</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】前端环境配置的一些整理和记录</title>
-    <url>/2023/10/28/23-10-28-front-end-environment/</url>
-    <content><![CDATA[<p>新建文件夹*1</p>
-]]></content>
-      <categories>
-        <category>front-end</category>
-      </categories>
-      <tags>
-        <tag>Vue3</tag>
-        <tag>npm</tag>
-        <tag>前端</tag>
+        <tag>gitalk</tag>
+        <tag>comment</tag>
       </tags>
   </entry>
   <entry>
@@ -78,17 +76,17 @@
       </tags>
   </entry>
   <entry>
-    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
-    <url>/2023/10/30/23-10-30-CommentsNote/</url>
-    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2><p>不知道是因为网络问题还是别的什么原因总之感觉这个东西如配……先开一篇记录一下吧。</p>
+    <title>【施工中】基于Hexo和Github搭建一个博客</title>
+    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
+    <content><![CDATA[<p>博主昨天就睡了两个半小时现在去补觉了，晚上再来写(o´ω&#96;o)ﾉ</p>
 ]]></content>
       <categories>
         <category>blog</category>
+        <category>front-end</category>
       </categories>
       <tags>
         <tag>blog</tag>
-        <tag>gitalk</tag>
-        <tag>comment</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -104,6 +102,20 @@
       <tags>
         <tag>blog</tag>
         <tag>life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】前端环境配置的一些整理和记录</title>
+    <url>/2023/10/28/23-10-28-front-end-environment/</url>
+    <content><![CDATA[<p>新建文件夹*1</p>
+]]></content>
+      <categories>
+        <category>front-end</category>
+      </categories>
+      <tags>
+        <tag>Vue3</tag>
+        <tag>npm</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
 </search>
