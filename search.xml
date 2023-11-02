@@ -1,37 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
-    <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>game</category>
-      </categories>
-      <tags>
-        <tag>HollowKnight</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
-    <url>/2023/10/30/23-10-30-CommentsNote/</url>
-    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2><p>不知道是因为网络问题还是别的什么原因总之感觉这个东西如配……先开一篇记录一下吧。</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>gitalk</tag>
-        <tag>comment</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【施工中】空洞骑士五门通关攻略</title>
     <url>/2023/10/28/23-10-28-hollowknight-stage5/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直想着有博客了之后和浙中医45虚空神联动出一篇神居五门攻略，现在打了18锁空洞水平大抵是够分析五门了</p>
 <p>写的话应该不止会写五门的东西，会带一点45内容（PS: n5对应n锁5门）</p>
 <p>再次感谢我的好哥们，<a class="link"   href="https://b23.tv/jj7oZCb" >随波逐流 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的协同创作</p>
-<h3 id="数据参考"><a href="#数据参考" class="headerlink" title="数据参考"></a>数据参考</h3><p>带锁之后一旦锁了骨钉or护符，boss血量将会决定战斗线程长度和整体难度（有些boss时间拖得越长越难打，比如马爹二阶段），所以这边做了一个表格进行参考</p>
+<h3 id="数据参考"><a href="#数据参考" class="headerlink" title="数据参考"></a>数据参考</h3><p>带锁之后一旦锁了骨钉or护符，boss血量将会决定战斗线程长度和整体难度（有些boss时间拖得越长越难打，比如马爹二阶段），所以这边做了一个表格进行参考<br><br/>手办屋刷雕像的空洞玩家可以参考进升辐辉血量，加*的为五门&#x2F;进升以上改地形</p>
+<h4 id="第一段"><a href="#第一段" class="headerlink" title="第一段"></a>第一段</h4><table>
+<thead>
+<tr>
+<th align="center">名称&#x2F;别名</th>
+<th align="center">五门&#x2F;调谐血量</th>
+<th align="center">进升&#x2F;辐辉血量</th>
+<th align="center">攻略</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">复仇蝇之王&#x2F;大苍蝇</td>
+<td align="center">左450&#x2F;右190</td>
+<td align="center">左735&#x2F;右430</td>
+<td align="center">不管怎样都有一个先死吧</td>
+</tr>
+<tr>
+<td align="center">格鲁兹之母&#x2F;虫母*</td>
+<td align="center">650</td>
+<td align="center">945</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">假骑士</td>
+<td align="center">260*3</td>
+<td align="center">560*3</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">苔藓(白给)冲锋者</td>
+<td align="center">480</td>
+<td align="center">850</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">守护者大黄蜂</td>
+<td align="center">900</td>
+<td align="center">1250</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">戈布*</td>
+<td align="center">650</td>
+<td align="center">1000</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">粪球防御者&#x2F;芬达哥</td>
+<td align="center">800</td>
+<td align="center">1100</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">灵魂战士(小师)</td>
+<td align="center">750</td>
+<td align="center">1000</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">躁郁的毛里克&#x2F;电饭煲*</td>
+<td align="center">750</td>
+<td align="center">1050</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">奥罗＆马托&#x2F;二师傅</td>
+<td align="center">500+600&#x2F;1000</td>
+<td align="center">800+1000&#x2F;1000</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>第一把椅子&#x2F;温泉&#x2F;8锁开生命血</p>
+<h4 id="第二段"><a href="#第二段" class="headerlink" title="第二段"></a>第二段</h4><table>
+<thead>
+<tr>
+<th align="center">名称&#x2F;别名</th>
+<th align="center">五门&#x2F;调谐血量</th>
+<th align="center">进升&#x2F;辐辉血量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">泽若*</td>
+<td align="center">650</td>
+<td align="center">900</td>
+</tr>
+<tr>
+<td align="center">水晶（白给）守卫</td>
+<td align="center">650</td>
+<td align="center">900</td>
+</tr>
+<tr>
+<td align="center">灵魂大师</td>
+<td align="center">600+350</td>
+<td align="center">900+600</td>
+</tr>
+<tr>
+<td align="center">奥波路波</td>
+<td align="center">450*2</td>
+<td align="center">750*2</td>
+</tr>
+<tr>
+<td align="center">螳螂领主（战斗姐妹）&#x2F;b三螂</td>
+<td align="center">500+750*3</td>
+<td align="center">600+950*3</td>
+</tr>
+</tbody></table>
+<p>第二把椅子</p>
 <table>
 <thead>
 <tr>
@@ -41,29 +122,64 @@
 </tr>
 </thead>
 <tbody><tr>
-<td align="center">复仇蝇之王&#x2F;大苍蝇</td>
-<td align="center">左450&#x2F;右190</td>
-<td align="center">左735&#x2F;右430</td>
+<td align="center">马尔穆*</td>
+<td align="center">416</td>
+<td align="center">600</td>
 </tr>
 <tr>
-<td align="center">格鲁兹之母&#x2F;虫母</td>
-<td align="center">650</td>
-<td align="center">945</td>
-</tr>
-<tr>
-<td align="center">假骑士</td>
-<td align="center">260*3</td>
-<td align="center">560*3</td>
-</tr>
-<tr>
-<td align="center">苔藓(白给)冲锋者</td>
-<td align="center">480</td>
-<td align="center">850</td>
-</tr>
-<tr>
-<td align="center">守护者大黄蜂</td>
+<td align="center">吸虫之母</td>
+<td align="center">500</td>
 <td align="center">900</td>
-<td align="center">1250</td>
+</tr>
+<tr>
+<td align="center">残破容器&#x2F;表哥</td>
+<td align="center">700</td>
+<td align="center">1000</td>
+</tr>
+<tr>
+<td align="center">加利安</td>
+<td align="center">650</td>
+<td align="center">1000</td>
+</tr>
+<tr>
+<td align="center">席奥</td>
+<td align="center">950</td>
+<td align="center">950&#x2F;1450</td>
+</tr>
+</tbody></table>
+<p>第三把椅子</p>
+<h4 id="第三段"><a href="#第三段" class="headerlink" title="第三段"></a>第三段</h4><table>
+<thead>
+<tr>
+<th align="center">名称&#x2F;别名</th>
+<th align="center">五门&#x2F;调谐血量</th>
+<th align="center">进升&#x2F;辐辉血量</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">泽若</td>
+<td align="center">650</td>
+<td align="center">900</td>
+</tr>
+<tr>
+<td align="center">水晶（白给）守卫</td>
+<td align="center">650</td>
+<td align="center">900</td>
+</tr>
+<tr>
+<td align="center">灵魂大师</td>
+<td align="center">600+350</td>
+<td align="center">900+600</td>
+</tr>
+<tr>
+<td align="center">奥波路波</td>
+<td align="center">450*2</td>
+<td align="center">750*2</td>
+</tr>
+<tr>
+<td align="center">螳螂领主（战斗姐妹）&#x2F;b三螂</td>
+<td align="center">500+750*3</td>
+<td align="center">600+950*3</td>
 </tr>
 </tbody></table>
 ]]></content>
@@ -73,6 +189,33 @@
       <tags>
         <tag>Hollow-Knight</tag>
         <tag>life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】前端环境配置的一些整理和记录</title>
+    <url>/2023/10/28/23-10-28-front-end-environment/</url>
+    <content><![CDATA[<p>新建文件夹*1</p>
+]]></content>
+      <categories>
+        <category>front-end</category>
+      </categories>
+      <tags>
+        <tag>Vue3</tag>
+        <tag>npm</tag>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
+    <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>一觉醒来感觉全世界都在玩空洞骑士，大抵是因为最近steam促销了罢()</p>
+<p>为了让空洞萌新们有更好的游戏入坑体验，我打算更一篇博客专门写mod安装相关的东西</p>
+]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>Hollow-Knight</tag>
       </tags>
   </entry>
   <entry>
@@ -90,6 +233,20 @@
       </tags>
   </entry>
   <entry>
+    <title>【施工中】配置Gitalk过程中踩的一些坑</title>
+    <url>/2023/10/30/23-10-30-CommentsNote/</url>
+    <content><![CDATA[<h2 id="配置gitalk"><a href="#配置gitalk" class="headerlink" title="配置gitalk"></a>配置gitalk</h2><p>不知道是因为网络问题还是别的什么原因总之感觉这个东西如配……先开一篇记录一下吧。</p>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>gitalk</tag>
+        <tag>comment</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Sodium-salt&#39;s First Blog</title>
     <url>/2023/10/27/Sodium-salt-s-First-Blog/</url>
     <content><![CDATA[<h2 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h2><p>目猫老师最帅</p>
@@ -100,22 +257,8 @@
         <category>salt编年史</category>
       </categories>
       <tags>
-        <tag>blog</tag>
         <tag>life</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】前端环境配置的一些整理和记录</title>
-    <url>/2023/10/28/23-10-28-front-end-environment/</url>
-    <content><![CDATA[<p>新建文件夹*1</p>
-]]></content>
-      <categories>
-        <category>front-end</category>
-      </categories>
-      <tags>
-        <tag>Vue3</tag>
-        <tag>npm</tag>
-        <tag>前端</tag>
+        <tag>blog</tag>
       </tags>
   </entry>
 </search>
