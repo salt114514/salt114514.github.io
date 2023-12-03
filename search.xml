@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
+    <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>一觉醒来感觉全世界都在玩空洞骑士，大抵是因为最近steam促销了罢()<br>为了让空洞萌新们有更好的游戏入坑体验，我打算更一篇博客专门写mod安装相关的东西</p>
+<h2 id="游戏安装"><a href="#游戏安装" class="headerlink" title="游戏安装"></a>游戏安装</h2>]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>Hollow-Knight</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【施工中】空洞骑士五门通关攻略</title>
     <url>/2023/10/28/23-10-28-hollowknight-stage5/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>之前一直想着有博客了之后和浙中医45虚空神联动出一篇神居五门攻略，现在打了18锁空洞水平大抵是够分析五门了</p>
 <p>写的话应该不止会写五门的东西，会带一点45内容（PS: n5对应n锁5门）</p>
 <p>再次感谢我的好哥们，<a class="link"   href="https://b23.tv/jj7oZCb" >随波逐流 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的协同创作</p>
 <h3 id="数据参考"><a href="#数据参考" class="headerlink" title="数据参考"></a>数据参考</h3><p>带锁之后一旦锁了骨钉or护符，boss血量将会决定战斗线程长度和整体难度（有些boss时间拖得越长越难打，比如马爹二阶段），所以这边做了一个表格进行参考<br><br/>手办屋刷雕像的空洞玩家可以参考进升辐辉血量，加*的为五门&#x2F;进升以上大改地形<br>表格中也列出了一些boss打法的简明攻略，对于一些<br><strong>可能出现的&#x2F;五门必遇的难点</strong><br>将会在下一部分展示，可以直接点击右侧目录跳转<br>现计划是对于一些无法直接概括的（可能）难点，我和随波分工打攻略出来放链接在第四列</p>
+<h3 id="写给初次带锁-准备打四五的玩家"><a href="#写给初次带锁-准备打四五的玩家" class="headerlink" title="写给初次带锁&#x2F;准备打四五的玩家"></a>写给初次带锁&#x2F;准备打四五的玩家</h3><p>如果平时用惯了 骄傲印记 + 坚固力量 + 快速劈砍 的平a莽夫三件套的玩家在锁了护符&#x2F;骨钉之后将会十分甚至九分的坐牢<br>因此这边建议平时在n门的练习中将法术和剑技的运用添加进练习，一个旋风斩总比一级钉的5伤来的痛快，尤其是最后那几个）<br>如果不适应多锁可以先打完散装16锁之后，再去冲五门n锁&#x2F;前四单门4锁，循序渐进<br>我本人是打完16锁准备冲最后4锁拿风化面具的，除了上述这边还建议先把手办屋全进升打完，减少中程失误<br>（from 随波：同样因为四门后半段马佐联防+辐光这个byd很难打，前期积累的蓝血资源需要后置）</p>
 <h4 id="第一段"><a href="#第一段" class="headerlink" title="第一段"></a>第一段</h4><table>
 <thead>
 <tr>
@@ -47,7 +60,7 @@
 <td align="center">同上&#x2F;想速通可以追着她打</td>
 </tr>
 </tbody></table>
-<p><font size=4>↑你都能打五门了还怕过不了这个）</font></p>
+<p><font size=4>↑你都能打五门了还怕过不了这个吗）</font></p>
 <table>
 <thead>
 <tr>
@@ -88,7 +101,7 @@
 <td align="center">(可能的难点&#x2F;45难点，见后)</td>
 </tr>
 </tbody></table>
-<p>第一把椅子&#x2F;温泉&#x2F;8锁开生命血（后续以椅子等价于这三项）</p>
+<p>第一把椅子&#x2F;温泉&#x2F;8锁以上开生命血（后续以第n把椅子等价于这三项）</p>
 <h4 id="第二段"><a href="#第二段" class="headerlink" title="第二段"></a>第二段</h4><table>
 <thead>
 <tr>
@@ -102,31 +115,31 @@
 <td align="center">泽若*</td>
 <td align="center">650</td>
 <td align="center">900</td>
-<td align="center"></td>
+<td align="center">蓝血收割机，看准脚底跳蓄力斩嫖伤害，梦剑定位有cd</td>
 </tr>
 <tr>
 <td align="center">水晶（白给）守卫</td>
 <td align="center">650</td>
 <td align="center">900</td>
-<td align="center"></td>
+<td align="center">白给，放激光了黑冲到后面砍他）</td>
 </tr>
 <tr>
 <td align="center">灵魂大师</td>
 <td align="center">600+350</td>
 <td align="center">900+600</td>
-<td align="center"></td>
+<td align="center">小寄巧: 大师下砸时可跳劈后冲刺偷刀,暴君也可以但不建议</td>
 </tr>
 <tr>
 <td align="center">奥波路波</td>
 <td align="center">450*2</td>
 <td align="center">750*2</td>
-<td align="center"></td>
+<td align="center">(可能的寄点，见后)</td>
 </tr>
 <tr>
 <td align="center">战斗姐妹&#x2F;b三螂</td>
 <td align="center">500+750*3</td>
 <td align="center">600+950*3</td>
-<td align="center"></td>
+<td align="center">(三只一起上别慌！干就完了！难点见后)</td>
 </tr>
 </tbody></table>
 <p>第二把椅子</p>
@@ -343,15 +356,18 @@
       </tags>
   </entry>
   <entry>
-    <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
-    <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>一觉醒来感觉全世界都在玩空洞骑士，大抵是因为最近steam促销了罢()<br>为了让空洞萌新们有更好的游戏入坑体验，我打算更一篇博客专门写mod安装相关的东西</p>
-<h2 id="游戏安装"><a href="#游戏安装" class="headerlink" title="游戏安装"></a>游戏安装</h2>]]></content>
+    <title>【施工中】基于Hexo和Github搭建一个博客</title>
+    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
+    <content><![CDATA[<p>乐了我就喜欢在阴间时间点更新）</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这是一篇基于hexo框架和github</p>
+]]></content>
       <categories>
-        <category>game</category>
+        <category>blog</category>
+        <category>front-end</category>
       </categories>
       <tags>
-        <tag>Hollow-Knight</tag>
+        <tag>blog</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -366,20 +382,6 @@
         <tag>blog</tag>
         <tag>gitalk</tag>
         <tag>comment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】基于Hexo和Github搭建一个博客</title>
-    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
-    <content><![CDATA[<p>博主昨天就睡了两个半小时现在去补觉了，晚上再来写(o´ω&#96;o)ﾉ</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-        <category>front-end</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
