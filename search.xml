@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>基于Hexo和Github搭建一个博客</title>
+    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
+    <content><![CDATA[<p><del>小刻也能看懂的hexo＆github联动搭建博客教程</del></p>
+<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>虽然说如果你去直接翻hexo的官网他是给你写了教程的【<a class="link"   href="https://hexo.io/zh-cn/docs" >官方文档点这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>】，但是既然很久之前开了一坑那就水一下吧(?)</p>
+<h3 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h3><p>你需要做的准备有：</p>
+<ul>
+<li>一个Github账号</li>
+<li>Git和Node.js的安装</li>
+</ul>
+<p>Git和Node.js的安装教程可以参考hexo官网(?)<br>安装结束之后可以开cmd敲这两行进去看看是否安装成功<br>总之有反应就是胜利（？）</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git --version</span><br><span class="line">npm --version</span><br></pre></td></tr></table></figure></div>
+<p>出于速度也可以考虑换一下镜像 ( )</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm config <span class="built_in">set</span> registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure></div>
+<p>然后创建一个github仓库，将仓库命名为 <code>你的用户名.github.io</code><br>注意是用户名（那个字体细一点的）<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="../imgs/article/2023-12-04-112749.png"
+                     
+                ></p>
+<h3 id="本地搭建"><a href="#本地搭建" class="headerlink" title="本地搭建"></a>本地搭建</h3><h4 id="1-安装hexo"><a href="#1-安装hexo" class="headerlink" title="1.安装hexo"></a>1.安装hexo</h4><p>敲入这行代码安装hexo<br>速度会有点慢，如果没上镜像的话会更加慢，所以……<br>等待并心怀希望罢！）</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
+<p>安装完成之后输入这两行来进行本地预览<br>如果出现了初始的主题，恭喜你已经成功一半了——</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+
+<h4 id="2-美化和主题安装"><a href="#2-美化和主题安装" class="headerlink" title="2.美化和主题安装"></a>2.美化和主题安装</h4><p>可以从hexo官网上下载自己喜欢的主题【点我查看官网<a class="link"   href="https://hexo.io/themes/" >Themes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>】</p>
+<p>【推荐界面简洁，自由度较高的next、fluid、butterfl、redefine等，美化做的比较好的安知鱼等】</p>
+<p>首先我们需要将主题的库克隆下来</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> [github地址] [存放路径]</span><br><span class="line"><span class="comment"># git clone https://github.com/EvanNotFound/hexo-theme-redefine themes/redefine</span></span><br></pre></td></tr></table></figure></div>
+<p>当然如果你用redefine的话他也支持npm直接下载，只需要输入</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-theme-redefine@latest</span><br></pre></td></tr></table></figure></div>
+
+<p>在项目文件夹中找到一个叫<code>_config.yml</code>的文件，将里面的<code>themes</code>修改为<code>redefine</code>，在项目文件夹中新建一个文件，命名为 <code>_config.主题名称.yml</code>，</p>
+<p>在你的项目文件夹中按照这个路径找到一个文件 <code>项目文件夹/themes/主题名称/_config.yml</code>，然后把里面的东西全部复制到你刚刚新建的那个yml文件里<br>（这步操作其实相当于备份，如果某一天调主题配置突然玩脱了还可以用themes里的这个config文件进行一个回档）</p>
+<h4 id="主题，启动！"><a href="#主题，启动！" class="headerlink" title="主题，启动！"></a>主题，启动！</h4><p>同样本地试运行一下看看是否安装成功</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+<p>之后按照你的那个主题的官方文档进行参数修改，改成你喜欢的样式就ok了</p>
+<h3 id="github部署"><a href="#github部署" class="headerlink" title="github部署"></a>github部署</h3><p>到上面为止这个博客已经可以在本地润了，非常好文明，接下来我们需要做的就是把他部署到github的服务器上</p>
+<p>在最开始我们已经创建了一个新的仓库，接下来依次敲这两行连接刚刚的github仓库</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;用户名&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;注册邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>在Git Bash中继续输入以下命令获取ssh密钥，之后一路回车：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;注册邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>输入以下命令查看密钥，复制输出的内容：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> ~/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure></div>
+
+<p>然后点<a class="link"   href="https://github.com/settings/keys" >这里 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>新建一个ssh密钥，把刚刚输出的密钥复制到SSH and GPG keys里，然后打开 Git Bash，输入 <code>ssh -T git@github.com</code> 出现 <code>Are you sure balabala……</code>，输入 yes 回车确认<br>显示 <code>Hi xxx! You&#39;ve successfully……</code> 即连接成功</p>
+<p>之后如果要把最新版本部署到github上，只需要输入以下命令即可：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure></div>
+<p>然后就可以通过<code>https://用户名.github.io/</code>的链接去访问你的博客了</p>
+<h3 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h3><p>上面的都做完了理论上你就可以开始爽写博客了，正常情况下不同主题在写作上有一些细节上的不同，不过正常来说如果你要开一篇新文章，<del>宇宙共通的</del>操作是：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new post “你的文章名称”</span><br></pre></td></tr></table></figure></div>
+
+<p>到这里就结束啦，现在你已经有了一个自己的博客了<br><del>快成为一周开7坑每篇全都鸽的大鸽子罢(喜)</del></p>
+]]></content>
+      <categories>
+        <category>blog</category>
+        <category>front-end</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【施工中】空洞骑士萌新入门指南/mod安装教程</title>
     <url>/2023/10/31/23-10-31-newHollowerGUI/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>一觉醒来感觉全世界都在玩空洞骑士，大抵是因为最近steam促销了罢()<br>为了让空洞萌新们有更好的游戏入坑体验，我打算更一篇博客专门写mod安装相关的东西</p>
@@ -353,21 +418,6 @@
       <tags>
         <tag>Hollow-Knight</tag>
         <tag>life</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【施工中】基于Hexo和Github搭建一个博客</title>
-    <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
-    <content><![CDATA[<p>乐了我就喜欢在阴间时间点更新）</p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这是一篇基于hexo框架和github</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-        <category>front-end</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
