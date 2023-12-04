@@ -17,8 +17,8 @@
 <p>然后创建一个github仓库，将仓库命名为 <code>你的用户名.github.io</code><br>注意是用户名（那个字体细一点的）<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="../imgs/article/2023-12-04-112749.png"
-                     
+                     data-src="/imgs/2023-12-04-112749.png"
+                      alt="img"
                 ></p>
 <h3 id="本地搭建"><a href="#本地搭建" class="headerlink" title="本地搭建"></a>本地搭建</h3><h4 id="1-安装hexo"><a href="#1-安装hexo" class="headerlink" title="1.安装hexo"></a>1.安装hexo</h4><p>敲入这行代码安装hexo<br>速度会有点慢，如果没上镜像的话会更加慢，所以……<br>等待并心怀希望罢！）</p>
 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure></div>
