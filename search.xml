@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Sodium-salt&#39;s First Blog</title>
+    <url>/2023/10/27/Sodium-salt-s-First-Blog/</url>
+    <content><![CDATA[<h2 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h2><p>目猫老师最帅</p>
+<p>这是salt的第一篇博客，目前打算先把一些基本功能摸透之后再开始优化css比如搞点配色和背景()</p>
+<p>很高兴认识你o(〃’▽’〃)o</p>
+]]></content>
+      <categories>
+        <category>salt编年史</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>12.20-盐的失眠日记</title>
+    <url>/2023/12/20/23-12-20-diary/</url>
+    <content><![CDATA[<div class="note danger"><p>预警：本文没有技术内容</p>
+</div>
+
+<p>现在是北京时间2023年12月20日凌晨三点二十五分，今天早上十点开始满课<br>但是现在又睡不着了，可能会是要通宵了吧（<del><strong>大抵是可乐喝多了</strong></del>）<br>传大物报告的时候又总是想着写点啥，于是便一边抄着情诗课的稿一边写一些莫名其妙的东西。</p>
+<h3 id="1"><a href="#1" class="headerlink" title="1"></a>1</h3><p>所谓的<strong>情绪逆流的爆发</strong>往往是在饥寒交迫的时候，当极其困倦的时候，比如在新教楼201的那几个晚上就往往不会有，但是当事情集合到一块又不知道从何下手的时候，这时候却也是最严重的时候之一。其实很久以前就开始这样了，只是以前我只会逃避罢了。</p>
+<p>但本来因为睡不着理应该到来的负面情绪似乎没有占据整个脑海，可能因为我一直在单曲循环某一首今天发现的好歌，或许是手头在忙着大物实验报告的更新，注意力还没有分配到那上面去吧。</p>
+<h3 id="2"><a href="#2" class="headerlink" title="2"></a>2</h3><p>我能做的还有什么，我没做的还剩什么，我一直在反复问这样两个问题。<br>那么唯一减轻自己精神压力的方式就是把手头上的事情全部解决完，应该吧</p>
+<p>偶尔也会感觉到脑海中的【同分异构体】的存在，在自己一个人的时候会经常出来。我现在唯一可以确定的她的特征，是她的排球打的真的很烂，可以把球打我脸上而且真的很痛（）可能这就是同分异构体的性质不同</p>
+<p><del>很奇怪的是我为什么会在潜意识里认为全世界都在针对我</del></p>
+<h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><p>为什么一定要分段这个我也不清楚，可能已经疯了）<br>我好像很久没有做梦了，带情节的梦。</p>
+<p>无所谓了，其他繁杂的东西都无所谓了，不用再想了，行动就好了，就这样就好了。经历的事情已经够多了，已经没有什么可怕的了。</p>
+<h3 id="4"><a href="#4" class="headerlink" title="4"></a>4</h3><p><strong>用独属于你的眼睛去视其根本。那应足以一瞥。然而在所见之时，又将忘却窥视的缘由。忘却窥视的缘由，既是痛苦，亦是悲剧。  ——哲学层指定司书Binah</strong></p>
+<p>锁妈的话向来很谜语人，但是从考据上来讲却又是“理解”……</p>
+<div class="note-large default"><div class="notel-title"><i class="notel-icon fa-solid fa-info"></i><p>理解(Binah，Understanding)</p>
+</div><div class="notel-content"><p>有”至高之母”的别名，和”智慧(Chhokmah)”相对应，象征”女性原理”，赋予所有事物的形体。数字是3，颜色是黑色。宝石是珍珠，金属是铅，象征行星为土星。代表人物形象为成熟的女性。神名是Elohim，守护天使是亚夫结(Zaphkiel)。执行、实质的理性、创造之泉，亦代表着土星天。对应关系有：限制，时间，严厉。</p>
+</div></div>
+
+<p>听了一整天的Slow Down，感觉可以强推这歌了。</p>
+<h3 id="5"><a href="#5" class="headerlink" title="5"></a>5</h3><p>该干活了，到这就收笔了吧，明天找个合适的时间再补觉了</p>
+]]></content>
+      <categories>
+        <category>salt编年史</category>
+      </categories>
+      <tags>
+        <tag>life</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基于Hexo和Github搭建一个博客</title>
     <url>/2023/10/28/23-10-18-HexoBlogBuilding/</url>
     <content><![CDATA[<p><del>小刻也能看懂的hexo＆github联动搭建博客教程</del></p>
@@ -432,21 +478,6 @@
         <tag>blog</tag>
         <tag>gitalk</tag>
         <tag>comment</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sodium-salt&#39;s First Blog</title>
-    <url>/2023/10/27/Sodium-salt-s-First-Blog/</url>
-    <content><![CDATA[<h2 id="Hello-World！"><a href="#Hello-World！" class="headerlink" title="Hello World！"></a>Hello World！</h2><p>目猫老师最帅</p>
-<p>这是salt的第一篇博客，目前打算先把一些基本功能摸透之后再开始优化css比如搞点配色和背景()</p>
-<p>很高兴认识你o(〃’▽’〃)o</p>
-]]></content>
-      <categories>
-        <category>salt编年史</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-        <tag>life</tag>
       </tags>
   </entry>
   <entry>
